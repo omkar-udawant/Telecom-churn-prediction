@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/omkarudawant/Telecom-churn-prediction/master)
 # Telecom Churn Prediction
 
 Churn is a one of the biggest problems in the telecom industry. Research has shown that the average monthly churn rate among the top 4 wireless carriers in the US is just mere 1.9% - 2%. 
