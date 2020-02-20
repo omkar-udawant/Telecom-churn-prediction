@@ -6,7 +6,9 @@ Churn is a one of the biggest problems in the telecom industry. Research has sho
 
 ## Context
 
-`"Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]`
+"Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." 
+
+[IBM Sample Data Sets]
 
 ## Content
 
